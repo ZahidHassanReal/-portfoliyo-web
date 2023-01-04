@@ -99,14 +99,14 @@ import {BsStarHalf} from 'react-icons/bs'
             <article className='experience__details'>
             <  BsCheck2Circle className='experience__details-icon'/>
             <div>
-             <h4>Python</h4>
+             <h4>Laravel</h4>
              <small className='text-light'><BsStarFill/><BsStarFill/></small>
             </div>
             </article>
             <article className='experience__details'>
             <  BsCheck2Circle className='experience__details-icon'/>
            <div>
-            <h4>Java</h4>
+            <h4>Express js</h4>
             <small className='text-light'><BsStarFill/><BsStarFill/><BsStarFill/></small>
            </div>
             </article>
